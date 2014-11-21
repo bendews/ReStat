@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BDB39DF5-F3F2-4BD7-9029-5A4D133B6DE0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ReStatClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EB0F503D36ED05C32393EA5D1C7F3BD96BEC30A4</key>
+		<string>https://github.com/dewso/ReStat.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ReStatClient.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EB0F503D36ED05C32393EA5D1C7F3BD96BEC30A4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dewso/ReStat.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB0F503D36ED05C32393EA5D1C7F3BD96BEC30A4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB0F503D36ED05C32393EA5D1C7F3BD96BEC30A4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ReStatClient</string>
+		</dict>
+	</array>
+</dict>
+</plist>
