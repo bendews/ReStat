@@ -83,7 +83,7 @@ int connectToHost(const char *ipInput)
     {
         printf("cannot connect to server!\n");
         close(sock_desc);
-        return 0; 
+        return 0;  
     }
     
     
